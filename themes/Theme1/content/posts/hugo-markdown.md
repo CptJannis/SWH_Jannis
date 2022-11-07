@@ -1,7 +1,7 @@
 ---
-title: Hugo Markdown
-date: 2021-11-04
-tags: ["hugo"]
+title: First steps with Hugo
+date: 2022-11-07
+tags: ["SWH"]
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`

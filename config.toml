@@ -1,4 +1,4 @@
 baseURL = 'https://cptjannis.github.io/SWH_Jannis/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'SWH Jannis'
 theme = "Theme1" 
