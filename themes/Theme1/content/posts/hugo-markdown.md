@@ -4,6 +4,8 @@ date: 2022-11-07
 tags: ["SWH"]
 ---
 
+##  Vorstellung
+
 Hi, mein Name ist Jannis, oder auch Cpt wie mich viele nennen.
 Als ich vor ein paar Wochen ein Plakat von diesem Anwendungsfach sah, war mein Interesse geweckt.
 Da ich mir auf Youtube viele Videos anschaue, in denen Leute mit (relativ) simplen technischen Fähigkeiten, coole Projekte 
@@ -18,26 +20,10 @@ Den Rest auf dieser Seite könnt ihr erstmal ignorieren :)
 
 
 
-
-
-
-
-
-# Header 1
+# Platzhalter
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-> This is another blockquote following header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -59,6 +45,7 @@ end
 - This is an unordered list following a header.
 - This is an unordered list following a header.
 - This is an unordered list following a header.
+
 
 ##### Header 5
 
