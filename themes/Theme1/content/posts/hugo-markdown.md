@@ -6,9 +6,9 @@ tags: ["SWH"]
 
 Hi, mein Name ist Jannis, oder auch Cpt wie mich viele nennen.
 Als ich vor ein paar Wochen ein Plakat von diesem Anwendungsfach sah, war mein Interesse geweckt.
-Nachdem ich mir auf Youtube viele Videos anschaue, in denen Leute (relativ) simplen technischen Fähigkeiten, coole Projekte 
+Da ich mir auf Youtube viele Videos anschaue, in denen Leute mit (relativ) simplen technischen Fähigkeiten, coole Projekte 
 umsetzen fande ich dieses Fach perfekt, um solche Skills auch zu lernen.
-Hätte ich schon all diese Fähigkeiten, würde ich mir vielleicht ein Paar gute **Standlautsprecher** basteln.    
+Hätte ich schon all diese Fähigkeiten dann, würde ich mir wahrscheinlich ein Paar gute **Standlautsprecher** basteln.    
 
 ![Bild von dem Lautsprecher (eigentlich)](/static/assets/pictures/img_stand)
 
