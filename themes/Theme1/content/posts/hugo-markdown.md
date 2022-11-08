@@ -1,24 +1,31 @@
 ---
-title: First steps with Hugo
+title: Mein erster Blogpost
 date: 2022-11-07
 tags: ["SWH"]
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
+Hi, mein Name ist Jannis, oder auch Cpt wie mich viele nennen.
+Als ich vor ein paar Wochen ein Plakat von diesem Anwendungsfach sah, war mein Interesse geweckt.
+Nachdem ich mir auf Youtube viele Videos anschaue, in denen Leute (relativ) simplen technischen Fähigkeiten, coole Projekte 
+umsetzen fande ich dieses Fach perfekt, um solche Skills auch zu lernen.
+Hätte ich schon all diese Fähigkeiten, würde ich mir vielleicht ein Paar gute **Standlautsprecher** basteln.    
 
-[Link to another page](./another-page.html).
+![Bild von dem Lautsprecher (eigentlich)](/static/assets/pictures/img_stand)
 
-There should be whitespace between paragraphs.
+https://www.satorique.de/images/Satorique4S-ClassHighend-Lautsprecher/Felix-Gregors-S4/FelixGregors-Satorique4-Lautsprecher_1920.jpg
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Den Rest auf dieser Seite könnt ihr erstmal ignorieren :)
 
-#### Image
 
-Images can be clicked to enlarge :) .
 
-![Dummy Image](https://picsum.photos/800/300)
+
+
+
+
 
 # Header 1
+
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
