@@ -12,7 +12,8 @@ Da ich mir auf Youtube viele Videos anschaue, in denen Leute mit (relativ) simpl
 umsetzen fande ich dieses Fach perfekt, um solche Skills auch zu lernen.
 Hätte ich schon all diese Fähigkeiten dann, würde ich mir wahrscheinlich ein Paar gute **Standlautsprecher** basteln.    
 
-![Bild von dem Lautsprecher (eigentlich)](/static/assets/pictures/img_stand)
+![Bild von dem Lautsprecher (eigentlich)](/assets/images/img_stand.png)
+![Dummy Image](https://www.satorique.de/images/Satorique4S-ClassHighend-Lautsprecher/Felix-Gregors-S4/FelixGregors-Satorique4-Lautsprecher_1920.jpg)
 
 https://www.satorique.de/images/Satorique4S-ClassHighend-Lautsprecher/Felix-Gregors-S4/FelixGregors-Satorique4-Lautsprecher_1920.jpg
 
