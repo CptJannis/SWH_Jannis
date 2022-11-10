@@ -1,7 +1,7 @@
 ---
 title: "Einführung E-Technik, Labor"
-description: "An diesem Tag haben wir eine Einführung in die Basics der E-Technik und das Labor bekommen."
-draft: true
+date: 2022-11-10
+tags: ["LABOR","TECHNIK"]
 ---
 
 # E-Technik
