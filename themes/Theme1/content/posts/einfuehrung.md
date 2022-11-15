@@ -5,10 +5,10 @@ tags: ["LABOR","TECHNIK"]
 ---
 
 # E-Technik
-Zu Beginn der 6 Stundne Einheit, haben wir die Basics der E-Technik vermittelt bekommen.
+Zu Beginn der sechs stündigen Einheit, haben wir die Basics der E-Technik vermittelt bekommen.
 Was sind Reles, Transistoren, Strom, Spannung, Wiederstand und wie man diese verschiedenen, 
 Kräfte berechnet. Auch die welche Zussammenhänge zwischen diesen Kräften 
-herschen, wurde uns erklärt. Zum Teil kannte ich das schon aus der Schulzeit, 
+herschen, wurde uns erklärt. Zum Teil kannte ich einiges schon aus der Schulzeit, 
 aber das meiste davon hatte ich schon verdrängt.
 
 # Labor
