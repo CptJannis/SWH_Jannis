@@ -36,3 +36,5 @@ void loop() {
     }
 }
 ```
+
+Ich bin der Meinung, dass ich Steuerungsweise jetzt schon alles umsetzen kann, was ich für den Battlebot brauche. Aber nicht, wenn ich das ganze Kabellose ansteuern möchte. Hierfür muss ich noch überlegen, wie ich den Bot kabellos ansteurn möchte. 
