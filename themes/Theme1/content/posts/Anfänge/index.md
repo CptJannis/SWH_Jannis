@@ -21,7 +21,7 @@ Danach habe ich auch schon mit den ersten Problemen zu meinem Projekt beschäfti
 
 ![Schrittmotor mit Joysticksteuerung](assets/Controller1.jpeg)
 
-Die Logik hinter der Steuerung ist ziemlich simpel. Zu Beginn der loop Funktion fragen wir nach der Position des Joysticks. Sobald der Joystick einen gewissen Wert überschreitet(523) oder unterschreitet(23), springen wir in eine While loop, welche den Motor bewegt. Damit wir nicht für alle Ewigkeiten in der Whileloop gefangen sind, fragen wir mit jedem Durchlauf ab, welche Position der Stick hat.
+Die Logik hinter der Steuerung ist ziemlich simpel. Zu Beginn der loop Funktion fragen wir nach der Position des Joysticks. Sobald der Joystick einen gewissen Wert überschreitet(523) oder unterschreitet(23), springen wir in eine While-loop, welche den Motor bewegt. Damit wir nicht für alle Ewigkeiten in der While-loop gefangen sind, fragen wir mit jedem Durchlauf ab, welche Position der Stick hat.
 
 ```c
 void loop() {
