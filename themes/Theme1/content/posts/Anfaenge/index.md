@@ -1,7 +1,5 @@
 ---
 title: "Arduino Anfänge"
-description: "Die ersten Versuch mit den Arduinos"
-draft: true
 date: 2022-12-05
 tags: ["ARDUINO"]
 ---

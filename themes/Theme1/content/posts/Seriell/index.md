@@ -1,7 +1,5 @@
 ---
 title: "Serielle Kommunikation"
-description: "Custom description"
-draft: true
 date: 2022-12-05
 tags: ["Ha"]
 ---
