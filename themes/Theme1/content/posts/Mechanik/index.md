@@ -19,3 +19,5 @@ Diese Verbindung wird `Linkages` genannt.
 ![Damp](Steam_engine.gif)
 https://www.bretagne-tip.de/geschichte/dampfmaschine.php
 
+Die Dampfmaschine wandelt Wärmenergie in Bewegungsenergie um.
+
