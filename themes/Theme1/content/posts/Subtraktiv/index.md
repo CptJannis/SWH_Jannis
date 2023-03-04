@@ -1,7 +1,7 @@
 ---
 title: "Subtraktive Fertigung"
 date: 2023-01-26
-tags: []
+tags: [Lasercut]
 ---
 
 Die subtraktive Fertigung ist eine Art der Herstellung von Werkstücken, bei der Material abgetragen wird, um die gewünschte Form und Größe zu erreichen. Im Gegensatz dazu wird bei der additiven Fertigung Material hinzugefügt, um das Werkstück aufzubauen.

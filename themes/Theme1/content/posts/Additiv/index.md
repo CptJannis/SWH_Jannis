@@ -1,7 +1,7 @@
 ---
 title: "Additive Fertigung"
 date: 2023-02-07
-tags: []
+tags: [3D-Druck]
 ---
 
 Gegenteilig zur 'subtraktiven Fertigung'
