@@ -1,5 +1,5 @@
 ---
-title: "Abschlusspräsentation"
+title: "Abschlusspräsentation WiSe"
 date: 2023-03-04
 tags: [Präsentation]
 ---

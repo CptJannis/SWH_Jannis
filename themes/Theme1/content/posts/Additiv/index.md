@@ -19,6 +19,12 @@ Bei diesem Vorgang werden verschiedenste Arten von Plastik geschmolzen und über
 Die verschiedenen Arten von Plastik, wie **PLA**, **ABS**, **NYLON** oder **TPU** haben unterschiedliche Werkseigenschaften, wie Flexibilität, Stabilität, dass sie gut mit Witterung umgehen können, oder dass sie nicht leicht entflammbar sind. Auch bei dem Druckvorgang weisen die Werkstoffe Unterschiede bei der Drucktemperatur, Beheizung der Platte oder bei der Aussonderung giftiger Dämpfe auf.
 
 Um ein Werkstück zu fertigen, müssen wir dem Drucker einen Auftrag geben. Dieser Auftrag beinhaltet ein Mesh-Modell, welches wir aus einem selbst erstelltem 3D Modell erzeugen können. Ein 3D Modell kann mithilfe der Fusion 360 Software von Autodesk erstellt werden.
+
+___________________________________________________________
+So eine CAD-Software ermöglicht die Erstellung präziser und parametrischer 3D-Modelle, die für technische Zwecke verwendet werden, wie Produktdesign, Architektur und Maschinenbau.
+Mesh-Software wird hingengen verwendet, um 3D-Modelle als polygonale Netze (Meshes) mit Dreiecks- oder Vierecksflächen zu erstellen und zu bearbeiten. Es eignet sich für visuell ansprechende Modelle wie Animationen, Spielegrafiken und 3D-Druck.
+___________________________________________________________
+
 Für die jeweiligen Drucker wird nochmals weitere Software benötigt. Will man auf einen der beiden Ultimaker drucken, braucht man für beide Drucker die Cura Anwendung, um die Objekte zu slicen und drucken zu können.
 
 Die vier weiteren Arten des 3D-Drucks, **Stereolithography (SLA)**, **Digital Light Processing (DLP)**, **Selective Laser Sintering (SLS) / (DLMS)** und **Selective-Powder-Deposition (SPD)** sind für die Arbeit im Lab nicht sonderlich von Bedeutung, da wir diese nicht zur Verfügung haben.

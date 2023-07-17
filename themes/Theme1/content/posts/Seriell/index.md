@@ -12,6 +12,11 @@ Um einmal mit serieller Kommunikation gearbeitet zu haben, habe ich mir eine 8x8
 Damit man beliebige LEDs ansteuern kann, muss jede Spalte betrachtet werden.
 In dem Array v hab ich die Zustände der LEDs in einer Spalte abgespeichert. Eine 1 stet dafür, dass eine LED leuchtet und eine 0, dass sie aus ist. **B11000000**, soll die ersten zwei LEDs der Spalte zum Leuchten bringen. Mit dem Befehl **setRow**, kann nun jeder Reihe eine solchen Zustand übergeben werden(**lc** ist hierbei die 8x8 Matrix). Hierbei wird jedes der 8 Bits hintereinander in einem zeitlichen Abstand übergeben.
 Mittels der **delay** Funktion können die Zustände der LEDs resetet werden. 
+___________________________________________________________ 
+Das I2C-Modell ist ein serieller Kommunikationsbus, der für die Verbindung von Mikrocontrollern und anderen integrierten Schaltkreisen verwendet wird. Es besteht aus zwei Leitungen, SDA (Serial Data Line) und SCL (Serial Clock Line). 
+Über diese Leitungen können mehrere Geräte miteinander kommunizieren, wobei jedes Gerät eine eindeutige Adresse hat. Die 8x8 LED-Matrix wird zum Beispiel, über I2C an den Arduino angeschlossen ist. Der Arduino fungiert als Master und sendet Daten (z. B. Text) an die LED-Matrix, indem er die Adresse des Geräts und die Daten seriell überträgt. Die LED-Matrix empfängt die Daten und zeigt sie entsprechend an.
+___________________________________________________________
+
 
 ```C#
  byte v[8]={B11000000,B00110000,B00001100,B00000011};
