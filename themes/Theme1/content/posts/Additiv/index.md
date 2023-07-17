@@ -44,5 +44,12 @@ Ein weiteres mögliches Problem ist Stringing. Hierbei bleiben zwischen benachba
 ![Stringing](stringing.jpg)
 https://www.ab3d.at/3d-druck-erste-hilfe-faden-am-druckobjekt/
 
+___________________________________________________________
+Diesen Fehler nennt man Unterextrusion. Er entsteht dadurch, dass die Software von mehr Filament ausgeht, als eigentlich aus der Drüse austritt. Dadruch entstehen die Lücken im Objekt und die Schichten können fehlerhaft miteinander verbunden sein.
+
+![Unterextrusion](Druckfehler4.jpg)
+https://www.3dnatives.com/de/wie-koennen-3d-druck-fehler-vermieden-werden-071020201/
+___________________________________________________________
+
 Dies waren natürlich nicht alle Fehler, aber schonmal ein kleiner Überblick über das, was alles schieflaufen kann.
 
