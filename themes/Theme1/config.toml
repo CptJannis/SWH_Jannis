@@ -19,3 +19,6 @@ minify = false
 
 [outputs]
   home = ["html", "json", "rss"]
+
+[markup.goldmark.renderer]
+unsafe = true

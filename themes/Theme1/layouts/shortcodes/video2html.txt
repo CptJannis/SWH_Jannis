@@ -1,0 +1,10 @@
+<video
+  autoplay
+  loop
+  poster="/blog/embed-videos/my-video.jpg"
+  width="100%"
+  playsinline
+>
+  <source src="/blog/embed-videos/my-video.mp4" type="video/mp4" />
+  <source src="/blog/embed-videos/my-video.webm" type="video/webm" />
+</video>

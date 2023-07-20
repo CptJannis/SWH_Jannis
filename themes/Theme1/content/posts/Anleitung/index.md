@@ -26,16 +26,17 @@ Hardware :
 - 1x Arduino Mega 2560
 
 ## Schritt 1 Vorbereitung:
-
-Diser 3D Modelle müsst ihr slicen und drucken.                              
-[Rampe_Getrennnt v5.stl]()   
-[Zahnrad v3.stl](Mu%CC%88nzza%CC%88hlautomat%20DIY%20a3b0af69e1244f52b05992e33f90b9be/Zahnrad_v3.stl)                                                             
-[Kugellager_passend.stl](Mu%CC%88nzza%CC%88hlautomat%20DIY%20a3b0af69e1244f52b05992e33f90b9be/Kugellager_passend.stl)
+Diese 3D Modelle müsst ihr slicen und drucken.                              
+[Rampe_Getrennnt v5.stl](https://github.com/CptJannis/Data_SWH/blob/main/3D%20Druck/Rampe_Getrennt%20v5.stl)                                           
+[Zahnrad v3.stl](https://github.com/CptJannis/Data_SWH/blob/main/3D%20Druck/Zahnrad%20v3.stl)                                           
+[Kugellager_passend.stl](https://github.com/CptJannis/Data_SWH/blob/main/3D%20Druck/Kugellager_passend.stl)
 
 Diese Schablonen müsst ihr Lasercutten oder optional per Hand sägen                                               
-[Mototrplatte.png](Mu%CC%88nzza%CC%88hlautomat%20DIY%20a3b0af69e1244f52b05992e33f90b9be/Mototrplatte.png)                                                           
-[Schieber Platte scaled.png](Mu%CC%88nzza%CC%88hlautomat%20DIY%20a3b0af69e1244f52b05992e33f90b9be/Schieber_Platte_scaled.png)                                                  
-[Drehscheibe.png](Mu%CC%88nzza%CC%88hlautomat%20DIY%20a3b0af69e1244f52b05992e33f90b9be/Drehscheibe.png)
+[Mototrplatte.png](https://github.com/CptJannis/Data_SWH/blob/main/Lasercut/Mototrplatte.png)                                                           
+[Schieber Platte scaled.png](https://github.com/CptJannis/Data_SWH/blob/main/Lasercut/Schieber%20Platte%20scaled.png)                                                  
+[Drehscheibe.png](https://github.com/CptJannis/Data_SWH/blob/main/Lasercut/Drehscheibe.png)
+
+hier liegen alle Dateine zum Download bereit: https://github.com/CptJannis/Data_SWH
 
 ## Schritt 2 Mechanik Coinpusher:
 

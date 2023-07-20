@@ -43,10 +43,7 @@ Münzzähler können physisch oder optisch arbeiten. Dabei wollte ich lieber mit
 Ebenso wollte ich nicht nur ein Schlitz für den Münzeinwurf haben, sondern es sollte etwas kreativer sein. Dabei kam ich auf die Idee die Mechanik eines Coinpushers zu verwenden um die Münze in die Sortiervorrichtung zu befördern.
 
 ## Projektstand
-{{< video src="/1.mp4" type="video/mp4" preload="auto" >}}
-
-[WhatsApp Video 2023-07-11 at 18.48.02.mp4](Projektverlauf%207a489991f76b41a8a6f3c19209107a74/WhatsApp_Video_2023-07-11_at_18.48.02.mp4)
-
+{{< video "video.mp4" "my-5" >}}
 Hier ist der Aufbau des Autoamten zu sehen. 
 Wie zu sehen erkennt der Automat die Münze problemlos und zählt den Aktuellen Geldstand korrekt mit.
 
