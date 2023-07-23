@@ -41,9 +41,9 @@ hier liegen alle Dateine zum Download bereit: https://github.com/CptJannis/Data_
 ## Schritt 2 Mechanik Coinpusher:
 
 1. Den Schraubenhalter in das Kugellager einsetzten.
-2. Mit einer Gewindeschraube 5mm Durchmesser, das große Zahnrad an dem Kugellager befestigen
-3. Auf der Hauptplatte, jeweils in jedem Eck vier, 2mm Löcher bohren. 
-4. Auf dem Rand der runden Drehscheibe, ein 5mm Loch für die zweite Gewindeschraube bohren. 
+2. Mit einer Gewindeschraube 5mm Durchmesser das große Zahnrad an dem Kugellager befestigen
+3. Auf der Hauptplatte jeweils in jedem Eck vier 2mm Löcher bohren. 
+4. Auf dem Rand der Runden Drehscheibe, ein 5mm Loch für die zweite Gewindeschraube bohren. 
 5. Die kürzere Gewindeschraube an der Drehscheibe festschrauben.
 6. Die Runde Drehscheibe auf der langen Schraube aufdrehen.                                                          (Muttern und Unterlegscheiben nicht vergessen)
 7. Den Motor mit einem Heißkleber am vorgefertigtem Loch befestigen.
@@ -59,13 +59,13 @@ Bild 2
 
 # Schritt 3 Münzerkennung:
 
-1. In die quadratische Lasergecuttete Platte 17 Rillen einschneiden. Auf der gegenüberliegenden Seite das gleiche Spiel. Die Rillen haben eine tiefe von 1mm.
+1. In die quadratische lasergecuttete Platte 17 Rillen einschneiden. Auf der gegenüberliegenden Seite das gleiche Spiel. Die Rillen haben eine Tiefe von 1mm.
 2. Die beiden nicht isolierten Kupferdrähte um die Platte wickeln. Die Drähte dürfen sich auf keinen Fall berühren. 
-3. Drähte kürzen mit einem Kabel verlöten und abisolieren.
+3. Drähte kürzen und mit mit einem Kabel verlöten und abisolieren.
 
 # Schritt 4 Gehäuse:
 
-Für die Vorderwand und Hinterwand nehmen wir die Platten wie sie sind. Die beiden Seiten Wände haben die Maße 20x30. Der Boden und die Decke muss auf die Maße 50x20 zugesägt werden. 
+Für die Vorderwand und Hinterwand nehmen wir die Platten, wie sie sind. Die beiden Seiten Wände haben die Maße 20x30. Der Boden und die Decke muss auf die Maße 50x20 zugesägt werden. 
 
 Nun brauchen wir noch Platten für das Innenleben.                                                             Die Platte auf der die Mechanik steht, hat die Maße: 15,5x27. 
 
@@ -73,35 +73,35 @@ Nun brauchen wir noch Platten für das Innenleben.                              
 
 Bild 3
 
-Da es sein kann, dass die Holzplatten leicht gebogen sind, kann es vorkommen dass die anzuleimende Platte Spalte zu den Wänden aufweist und somit irgendwo aufliegen muss um fest verleimt werden zu können. Deshalb habe ich die kleinen Blöcke zurecht geschnitten und angeleimt.
+Da es sein kann, dass die Holzplatten leicht gebogen sind, kann es vorkommen, dass die anzuleimende Platte Spalte zu den Wänden aufweist und somit irgendwo aufliegen muss, um fest verleimt werden zu können. Deshalb habe ich die kleinen Blöcke zurecht geschnitten und angeleimt.
 
 Danach kann die Trennwand wie in Bild 4 angeleimt werden. Maße Trennwand: 22x30.
 
 ![Bild 4](4.jpeg)
 Bild 4
 
-Die Rampe mit den Maßen 16x2,8, kann mit einem Winkel angeschraubt werden. Zuvor muss man mit etwas Gefühl sie von einem 90° Winkel ein 100° Winkel daraus machen. Die hinausstehenden Schrauben müssen danach aber mit einer Flex abgetrennt werden.                    Damit der Schieber nicht verrutscht muss links und rechts davon ein kleiner Holzklotz angeschraubt werden.
+Die Rampe mit den Maßen 16x2,8, kann mit einem Winkel angeschraubt werden. Zuvor muss man mit etwas Gefühl sie von einem 90° Winkel ein 100° Winkel daraus machen. Die hinausstehenden Schrauben müssen danach aber mit einer Flex abgetrennt werden.                    Damit der Schieber nicht verrutscht, muss links und rechts davon ein kleiner Holzklotz angeschraubt werden.
 
 ![Bild 5](5.jpeg)
 Bild 5
 
-Die beiden Teile für die Schiene müssen mit 2 Komponentenkleber zusammengeklebt werden. Das ganze sollte über Nacht trocknen. Kleberreste welche die Laufruhe der Münzen negativ beeinträchtigen können müssen entfernt werden.
+Die beiden Teile für die Schiene müssen mit 2 Komponentenkleber zusammengeklebt werden. Das Ganze sollte über Nacht trocknen. Kleberreste, welche die Laufruhe der Münzen negativ beeinträchtigen können, müssen entfernt werden.
 
 ![Bild 6](6.jpeg)
 Bild 6
 
 Die Rampe muss mit einem kleinen Abstand an der Außenwand befestigt werden, damit die Münze zuverlässig hinunterrollt und nicht stecken bleibt. 
 
-Hinzu kommen zwei Dreiecke welche rechts von der Schiene festgeklebt werden müssen. Von den Dreiecken werden insgesamt 4 benötigt. Die Maße sind hierbei 16cm Länge, die Lange Außenseite ist 3,7cm lang und die kurze 1cm.
+Hinzu kommen zwei Dreiecke, welche rechts von der Schiene festgeklebt werden müssen. Von den Dreiecken werden insgesamt 4 benötigt. Die Maße sind hierbei 16cm Länge, die lange Außenseite ist 3,7cm lang und die kurze 1cm.
 
 Die anderen zwei Dreiecke werden für den richtigen Winkel der Münzen benötigt. Die Dreiecke müssen den gleichen Winkel wie die Schiene haben (Bild 3). 
 
 # Schritt 4 Abstandssensoren:
 
 1. Aus dem Pressspan eine 10x31 Platte zurecht sägen.
-2. 8 Löcher Bohren welche direkt gegenüber der Löcher der Schiene liegen, über die die Münzen nach Größe sortiert werden.
+2. 8 Löcher Bohren, welche direkt gegenüber der Löcher der Schiene liegen, über die die Münzen nach Größe sortiert werden.
 3. Sensoren durch die Löcher stecken und festkleben.
-4. (Beim Testen der Sensoren kann die kleine Schraube auf der Vorderseite benutzt werden. Sie ist für den Abstand zuständig, ab den die minimale Abstandserkennung ohne hinzuschalten der 5V des Digital Pins möglich ist.) 
+4. (Beim Testen der Sensoren kann die kleine Schraube auf der Vorderseite benutzt werden. Sie ist für den Abstand zuständig, ab den die minimale Abstandserkennung ohne hinzuschalten der 5V des digital Pins möglich ist.) 
 
 ![Bild 7](7.jpeg)
 
@@ -173,8 +173,8 @@ bool Pin8;
 File bankFile;
 ```
 
-Danach wird in dem Setup versucht eine SD Karte zu erkennen auf der dann der Gesamtbetrag gespeichert werden soll. Da bei meinem SD Karten Modul keine der SD Karten richtig beschreiben, oder von ihnen lesen konnte habe ich die Aktualisierung ausgelassen. 
-Heißt die SD Karte wird erkannt und wäre bereit beschrieben zu werden, wird sie aber in meinem Code nicht. Wenn ihr also nicht bei jedem Start der Maschine von 0 zählen wollt sondern einen gespeicherten Stand abrufen möchtet, müsst ihr den Code erweitern.
+Danach wird in dem Setup versucht eine SD Karte zu erkennen, auf der dann der Gesamtbetrag gespeichert werden soll. Da bei meinem SD Karten Modul keine der SD Karten richtig beschreiben oder von ihnen lesen konnte habe ich die Aktualisierung ausgelassen. 
+Heißt die SD Karte wird erkannt und wäre bereit, beschrieben zu werden, wird sie aber in meinem Code nicht. Wenn ihr also nicht bei jedem Start der Maschine von 0 zählen wollt, sondern einen gespeicherten Stand abrufen möchtet, müsst ihr den Code erweitern.
 
 ```cpp
 void setup() {
@@ -236,9 +236,9 @@ void setup() {
 }
 ```
 
-Nun muss geschaut werden, ob eine Münze erkannt wird. Danach schiebt der Motor den Schieber, wodurch die Münze herunterfällt und auf die Schiene rollt. Sobald die Münze rollt darf der Motor nicht mehr drehen, da wir sonst nicht in die Loop kommen, in der die Sensoren Updates liefern. Deshalb gibt es den Timer in der While-loop. 
+Nun muss geschaut werden, ob eine Münze erkannt wird. Danach schiebt der Motor den Schieber, wodurch die Münze herunterfällt und auf die Schiene rollt. Sobald die Münze rollt, darf der Motor nicht mehr drehen, da wir sonst nicht in die Loop kommen, in der die Sensoren Updates liefern. Deshalb gibt es den Timer in der While-loop. 
 
-Schaut wie lange die zwei Euro Münze an Zeit braucht um durch ihr Loch zu fallen und stellt wenn nötig die Period Time neu ein.
+Schaut wie lange die zwei Euro Münze an Zeit braucht, um durch ihr Loch zu fallen und stellt, wenn nötig die Period Time neu ein.
 
 ```cpp
 void loop() {
@@ -296,7 +296,7 @@ void loop() {
   }
 ```
 
-Jetzt muss nur noch geprüft werden welche Sensoren an waren und welche nicht. Dann kann das Vermögen und das Display geupdatet werden. 
+Jetzt muss nur noch geprüft werden, welche Sensoren an waren und welche nicht. Dann kann das Vermögen und das Display geupdatet werden. 
 
 Dreht beim Testen gerne an der Schraube und probiert etwas herum. Wenn eine Münze vorbei rollt, sollte die zweite LED aufblitzen (mehrmaliges aufblitzen ist auch in Ordnung).
 
@@ -428,19 +428,19 @@ Alle + Pole (5V) können in einer Reihe auf einer Platine festgelötet werden.
 
 ![Bild10](10.jpeg)
 
-Einen Schönheitspreis gewinnt es nicht, aber es funktioniert. Sollten manche Sensoren nicht funktionieren könnt ihr versuchen eine Weitere Stromquelle anzuschließen. Ich habe ein normales Micro-USB Kabel aufgeschnitten und an ein Schalter gelötet. 
+Einen Schönheitspreis gewinnt es nicht, aber es funktioniert. Sollten manche Sensoren nicht funktionieren, könnt ihr versuchen eine Weitere Stromquelle anzuschließen. Ich habe ein normales Micro-USB Kabel aufgeschnitten und an ein Schalter gelötet. 
 Dann hab ich ein 5V-9V Netzteil von meinen Handy genommen und es daran angeschlossen. 
 Dadurch hat sich das Problem bei mir behoben. 
 
 # Schritt 7 Zusammenbauen:
 
-1. Einsetzten der Platte mit den Sensoren. (Am besten in einem leichten Winkel. Sensoren sollen leicht nach oben zeigen. und sich auf Höhe der Löcher in der Schiene befinden.
+1. Einsetzten der Platte mit den Sensoren. (Am besten in einem leichten Winkel. Sensoren sollen leicht nach oben zeigennd und sich auf Höhe der Löcher in der Schiene befinden.
 2. Boden anleimen.
 3. Platinen anschrauben oder ankleben.
-4. Kabel abisolieren aufräumen.
+4. Kabel abisolieren und aufräumen.
 5. Deckel anleimen.
 6. Tür mit zwei Scharnieren anschrauben (linke Seite), sodass die Schiene sauber abschließt mit der vorherigen Rampe.
 
 # Schritt 8 Sparen:
 
-Nun kommt der leichteste und vielleicht auch der Schwierigste Teil. Schmeißt eure Münzen auf die Platte und staut darüber was ihr gebaut habt!
+Nun kommt der leichteste und vielleicht auch der schwierigste Teil. Schmeißt eure Münzen auf die Platte und staut darüber, was ihr gebaut habt!
