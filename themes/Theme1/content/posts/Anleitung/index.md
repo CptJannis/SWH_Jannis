@@ -25,7 +25,7 @@ Hardware :
 - 1x OLED Display SSD1306
 - 1x Arduino Mega 2560
 
-## Schritt 1 Vorbereitung:
+## Schritt 1 Vorbereitung
 Diese 3D Modelle müsst ihr slicen und drucken.                              
 [Rampe_Getrennnt v5.stl](https://github.com/CptJannis/Data_SWH/blob/main/3D%20Druck/Rampe_Getrennt%20v5.stl)                                           
 [Zahnrad v3.stl](https://github.com/CptJannis/Data_SWH/blob/main/3D%20Druck/Zahnrad%20v3.stl)                                           
@@ -444,3 +444,6 @@ Dadurch hat sich das Problem bei mir behoben.
 # Schritt 8 Sparen:
 
 Nun kommt der leichteste und vielleicht auch der schwierigste Teil. Schmeißt eure Münzen auf die Platte und staut darüber, was ihr gebaut habt!
+
+# Lizensierung 
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
