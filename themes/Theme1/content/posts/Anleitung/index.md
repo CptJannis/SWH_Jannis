@@ -446,4 +446,4 @@ Dadurch hat sich das Problem bei mir behoben.
 Nun kommt der leichteste und vielleicht auch der schwierigste Teil. Schmeißt eure Münzen auf die Platte und staut darüber, was ihr gebaut habt!
 
 # Lizensierung 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
